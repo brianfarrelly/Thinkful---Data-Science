@@ -31,7 +31,7 @@ scitkit-learn - https://scikit-learn.org/stable/install.html
 
 [Keras](https://keras.io/) - Deep Learning Library
 
-[sci-kit learn](https://scikit-learn.org/stable/) - Machine Learning Lubrary
+[sci-kit learn](https://scikit-learn.org/stable/) - Machine Learning Library
 
 ## Authors 
 
